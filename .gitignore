@@ -1,0 +1,42 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# Rider / VSCode / VS
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity Asset Store tools (optionnel)
+*.unitypackage
+
+# Crash and profiler logs
+sysinfo.txt
+*.stacktrace
+
+# Avoid pushing large binaries
+*.apk
+*.aab
+*.exe
+*.zip
+*.mp4
+
+# Optional: VS config if not used
+.vsconfig
