@@ -19,6 +19,7 @@ UserSettings/
 *.tmp
 *.user
 *.userprefs
+.vs/
 
 # OS files
 .DS_Store
